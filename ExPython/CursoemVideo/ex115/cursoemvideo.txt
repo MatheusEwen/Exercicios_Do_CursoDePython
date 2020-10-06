@@ -1,0 +1,4 @@
+jose;35
+matheus;17
+maria;85
+ismael;50

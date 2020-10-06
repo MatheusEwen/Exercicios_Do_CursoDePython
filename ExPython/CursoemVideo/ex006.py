@@ -1,0 +1,5 @@
+n=int(input('digite um número para saber o seu dobro,triplo e a sua raiz quadrada:'))
+do=(n*2)
+tri=(n+3)
+ra=(n**(1/2))
+print('Seu numero foi {} \n o dobro é {} \n o triplo é {} \n e a raiz é {}'.format(n, do, tri, ra))
